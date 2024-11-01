@@ -74,6 +74,10 @@ Na tela principal, o usuário tem a possibilidade de fazer calculos simples tili
 
 <img src="https://github.com/user-attachments/assets/2ec63264-0b83-4cc6-85e9-907d3cfe3ddb" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/AppCalc/blob/main/AppCalc.apk"> Download APK </a>
+
 # 📄 Licença
 
 [![NPM](https://github.com/ZiroGl/AppCalc/blob/main/LICENSE)  
